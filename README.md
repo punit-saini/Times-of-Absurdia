@@ -11,6 +11,7 @@
 [👉 View the App](https://times-of-absurdia.netlify.app/)
 
 ---
+<img width="935" height="824" alt="image" src="https://github.com/user-attachments/assets/81b83486-e293-44aa-a473-5a3f21e949e9" />
 
 ## 🚀 Features
 
